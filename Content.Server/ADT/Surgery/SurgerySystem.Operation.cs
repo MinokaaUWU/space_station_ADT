@@ -1,6 +1,8 @@
 using Content.Shared.ADT.Surgery.Components;
 using Content.Shared.ADT.Surgery.Events;
 using Content.Shared.ADT.Surgery.Prototypes;
+using Content.Shared.Chat;
+using Content.Shared.Damage;
 using Content.Shared.DoAfter;
 using Robust.Shared.Random;
 
@@ -195,7 +197,19 @@ public sealed partial class SurgerySystem
 
         var step = edge.Steps[args.StepIndex];
 
-        if (!_random.Prob(step.SuccessChance))
+        var anesthetized = IsAnesthetized(uid);
+        var successChance = anesthetized ? step.SuccessChance : step.SuccessChance * NoAnestheticChanceMultiplier;
+
+        if (!anesthetized)
+        {
+            _chat.TryEmoteWithChat(uid, ScreamEmote, ChatTransmitRange.Normal, ignoreActionBlocker: true);
+
+            // Слабая анестезия (например алкоголь) убирает только боль от самого шага, но не спасает от риска и криков.
+            if (!IsWeaklyAnesthetized(uid))
+                _damageable.TryChangeDamage(uid, NoAnestheticPainDamage, origin: comp.Surgeon);
+        }
+
+        if (!_random.Prob(successChance))
         {
             _popup.PopupEntity(Loc.GetString("surgery-step-failed"), uid, comp.Surgeon ?? uid);
 

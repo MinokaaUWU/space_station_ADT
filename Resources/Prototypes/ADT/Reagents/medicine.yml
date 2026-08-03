@@ -409,6 +409,14 @@
         - !type:ReagentCondition
           reagent: ADTMorphine
           min: 30.05
+      - !type:ModifyStatusEffect
+        conditions:
+        - !type:ReagentCondition
+          reagent: ADTMorphine
+          min: 15
+        effectProto: StatusEffectAnesthetized
+        type: Add
+        time: 2
       - !type:GenericStatusEffect #не забываем, что морфин ещё и наркотик.
         key: SeeingRainbows
         component: SeeingRainbows
