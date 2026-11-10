@@ -39,6 +39,13 @@
       whitelist:
         tags:
           - ADTUnderwearT
+    - name: anal
+      slotTexture: anal
+      slotFlags: ANAL
+      stripTime: 3
+      uiWindowPos: 4,3
+      strippingWindowPos: 3,4
+      displayName: Anal
 # ADT tweak end
     - name: jumpsuit
       slotTexture: uniform

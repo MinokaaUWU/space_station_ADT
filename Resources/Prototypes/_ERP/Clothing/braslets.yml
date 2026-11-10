@@ -1,0 +1,51 @@
+- type: entity
+  abstract: true
+  parent: Clothing
+  id: ClothingHandsBrasletBase
+  components:
+  - type: Sprite
+    sprite: _ERP/Clothing/Hands/braslets.rsi
+  - type: Clothing
+    slots: [gloves]
+  - type: Item
+    size: Small
+- type: entity
+  parent: ClothingHandsBrasletBase
+  id: ClothingHandsBrasletHarmless
+  name: bracelet - let's chat
+  description: "A bracelet showing that you want more communication."
+  components:
+  - type: Sprite
+    state: harmless
+- type: entity
+  parent: ClothingHandsBrasletBase
+  id: ClothingHandsBrasletSearch
+  name: bracelet - in active search
+  description: "A bracelet showing your loneliness and lack of a significant other."
+  components:
+  - type: Sprite
+    state: search
+- type: entity
+  parent: ClothingHandsBrasletBase
+  id: ClothingHandsBrasletBite
+  name: bracelet - fuck me
+  description: "A bracelet showing your desires."
+  components:
+  - type: Sprite
+    state: bite
+- type: entity
+  parent: ClothingHandsBrasletBase
+  id: ClothingHandsBrasletSex
+  name: bracelet - i want to fuck someone
+  description: "A bracelet showing your intentions."
+  components:
+  - type: Sprite
+    state: sex
+- type: entity
+  parent: ClothingHandsBrasletBase
+  id: ClothingHandsBrasletRape
+  name: bracelet - rape me
+  description: "A bracelet showing your deep dark fantasies..."
+  components:
+  - type: Sprite
+    state: rape
