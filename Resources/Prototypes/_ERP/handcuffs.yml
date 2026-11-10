@@ -42,3 +42,34 @@
     sprite: _ERP/Clothing/OuterClothing/Misc/shibari_red.rsi
     state: handcuff
     scale: 0.7,0.7
+
+- type: entity
+  parent: BaseItem
+  id: ERPHandcuffsERP
+  suffix: ERP
+  name: toy handcuffs
+  description: Soft toy handcuffs. Classic!
+  components:
+  - type: Item
+    size: Small
+  - type: Handcuff
+    cuffedRSI: _ERP/Objects/Handcuffs/handcuff.rsi
+    bodyIconState: body-overlay
+    breakoutTime: 3
+    cuffTime: 7
+    uncuffTime: 3
+    stunBonus: 4
+  - type: Sprite
+    sprite: _ERP/Objects/Handcuffs/handcuff.rsi
+    state: handcuff
+  - type: Tag
+    tags:
+    - Handcuffs
+  - type: MeleeWeapon
+    wideAnimationRotation: 90
+    animation: WeaponArcDisarm
+    damage:
+      types:
+        Blunt: 0
+  - type: UseDelay
+    delay: 3

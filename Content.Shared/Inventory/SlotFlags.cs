@@ -31,7 +31,8 @@ public enum SlotFlags
     SOCKS = 1 << 18,
     FINGER = 1 << 19,
     EARS2 = 1 << 20,
-    ANAL = 1 << 21,// ADT-Tweak-End
+    ANAL = 1 << 21,
+    CAGE = 1 << 22,// ADT-Tweak-End
     All = ~NONE,
 
     WITHOUT_POCKET = All & ~POCKET

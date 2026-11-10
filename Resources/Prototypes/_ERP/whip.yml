@@ -1,0 +1,20 @@
+- type: entity
+  id: ERPWhipERP
+  parent: BaseItem
+  suffix: ERP
+  name: whip
+  description: A black whip designed for passionate bed games.
+  components:
+  - type: Sprite
+    sprite: _ERP/Objects/whip.rsi
+    state: icon
+    scale: 0.8,0.8
+  - type: Item
+    size: Normal
+    sprite: _ERP/Objects/whip.rsi
+  - type: StaminaDamageOnHit
+    damage: 8
+  - type: MeleeWeapon
+    damage:
+      types:
+        Blunt: 0

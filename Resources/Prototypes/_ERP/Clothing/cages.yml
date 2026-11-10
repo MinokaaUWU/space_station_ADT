@@ -1,0 +1,82 @@
+- type: entity
+  id: BaseERPCage
+  abstract: true
+  parent: Clothing
+  suffix: ERP
+  components:
+  - type: Sprite
+    state: icon
+  - type: Item
+    size: Small
+  - type: Clothing
+    quickEquip: false
+    slots:
+    - cage
+    clothingVisuals:
+      underwearb:
+      - state: equipped-PANTS
+
+- type: entity
+  id: ERPCageMaleNormal
+  parent: BaseERPCage
+  name: chastity cage
+  description: A simple metal chastity cage.
+  suffix: ERP
+  components:
+  - type: Sprite
+    sprite: _ERP/Clothing/Cages/cage_normal.rsi
+    state: icon
+  - type: Clothing
+    sprite: _ERP/Clothing/Cages/cage_normal.rsi
+
+- type: entity
+  id: ERPCageMaleIron
+  parent: BaseERPCage
+  name: iron chastity cage
+  description: A sturdy iron chastity cage.
+  suffix: ERP
+  components:
+  - type: Sprite
+    sprite: _ERP/Clothing/Cages/cage_iron.rsi
+    state: icon
+  - type: Clothing
+    sprite: _ERP/Clothing/Cages/cage_iron.rsi
+
+- type: entity
+  id: ERPCageMaleFlat
+  parent: BaseERPCage
+  name: flat chastity cage
+  description: A chastity cage with a flat profile.
+  suffix: ERP
+  components:
+  - type: Sprite
+    sprite: _ERP/Clothing/Cages/cage_flat.rsi
+    state: icon
+  - type: Clothing
+    sprite: _ERP/Clothing/Cages/cage_flat.rsi
+
+- type: entity
+  id: ERPCageFemaleBelt
+  parent: BaseERPCage
+  name: chastity belt
+  description: A metal chastity belt.
+  suffix: ERP
+  components:
+  - type: Sprite
+    sprite: _ERP/Clothing/Cages/cage_female.rsi
+    state: icon
+  - type: Clothing
+    sprite: _ERP/Clothing/Cages/cage_female.rsi
+
+- type: entity
+  id: ERPCageMaleElectric
+  parent: BaseERPCage
+  name: electric chastity cage
+  description: A decorative electric chastity cage. Its electric module is nonfunctional.
+  suffix: ERP
+  components:
+  - type: Sprite
+    sprite: _ERP/Clothing/Cages/cage_electric.rsi
+    state: icon
+  - type: Clothing
+    sprite: _ERP/Clothing/Cages/cage_electric.rsi

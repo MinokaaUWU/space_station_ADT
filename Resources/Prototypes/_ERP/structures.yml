@@ -1,0 +1,27 @@
+- type: entity
+  id: ERPSexRackERP
+  parent: ChairBase
+  suffix: ERP
+  name: BDSM rack
+  description: A padded rack with straps, but what is it for?...
+  components:
+  - type: Sprite
+    sprite: _ERP/Structures/Furniture/sexrack.rsi
+    state: sexrack
+  - type: Strap
+    position: Stand
+    buckleOffset: "0, 0.05"
+
+- type: entity
+  id: ERPSexRackFlatpackERP
+  parent: BaseFlatpack
+  suffix: ERP
+  name: boxed BDSM rack
+  description: A flatpack used to assemble a BDSM rack.
+  components:
+  - type: Flatpack
+    entity: ERPSexRackERP
+  - type: Sprite
+    sprite: _ERP/Structures/Furniture/sexrack.rsi
+    layers:
+    - state: sexrack-flatpack

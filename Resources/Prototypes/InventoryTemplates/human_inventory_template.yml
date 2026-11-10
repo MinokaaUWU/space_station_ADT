@@ -29,6 +29,13 @@
       whitelist:
         tags:
           - ADTUnderwearB
+    - name: cage
+      slotTexture: underwearb
+      slotFlags: CAGE
+      stripTime: 6
+      uiWindowPos: 4,4
+      strippingWindowPos: 4,4
+      displayName: Chastity Cage
     - name: underweart
       slotTexture: underweart
       slotFlags: UNDERWEART

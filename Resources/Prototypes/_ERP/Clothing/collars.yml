@@ -1,0 +1,132 @@
+- type: entity
+  parent: ClothingNeckBase
+  id: ERPCollarHeartERP
+  suffix: ERP
+  name: collar with heart
+  description: Black choker with a pink heart on the front.
+  components:
+  - type: Sprite
+    sprite: _ERP/Clothing/Neck/Accessories/collar1.rsi
+  - type: Clothing
+    sprite: _ERP/Clothing/Neck/Accessories/collar1.rsi
+
+- type: entity
+  parent: ClothingNeckBase
+  id: ERPCollarMeshERP
+  suffix: ERP
+  name: mesh collar
+  description: Black mesh choker that fits snugly around the neck.
+  components:
+  - type: Sprite
+    sprite: _ERP/Clothing/Neck/Accessories/collar2.rsi
+  - type: Clothing
+    sprite: _ERP/Clothing/Neck/Accessories/collar2.rsi
+
+- type: entity
+  parent: ClothingNeckBase
+  id: ERPCollarCircleERP
+  suffix: ERP
+  name: collar with circle
+  description: Black choker with metal circle on the front.
+  components:
+  - type: Sprite
+    sprite: _ERP/Clothing/Neck/Accessories/collar3.rsi
+  - type: Clothing
+    sprite: _ERP/Clothing/Neck/Accessories/collar3.rsi
+
+- type: entity
+  parent: ClothingNeckBase
+  id: ERPCollarHeart2ERP
+  suffix: ERP
+  name: collar with heart
+  description: Black choker with a pink heart on the front.
+  components:
+  - type: Sprite
+    sprite: _ERP/Clothing/Neck/Accessories/collar4.rsi
+  - type: Clothing
+    sprite: _ERP/Clothing/Neck/Accessories/collar4.rsi
+
+- type: entity
+  parent: ClothingNeckBase
+  id: ERPSpikeCollarERP
+  suffix: ERP
+  name: spike collar
+  description: Spiked collar for spicy play.
+  components:
+  - type: Sprite
+    sprite: _ERP/Clothing/Neck/Accessories/spike_collar.rsi
+  - type: Clothing
+    sprite: _ERP/Clothing/Neck/Accessories/spike_collar.rsi
+
+- type: entity
+  parent: ClothingNeckBase
+  id: ERPRibbonERP
+  suffix: ERP
+  name: ribbon
+  description: Cutie red ribbon.
+  components:
+  - type: Sprite
+    sprite: _ERP/Clothing/Neck/Accessories/ribbon.rsi
+  - type: Clothing
+    sprite: _ERP/Clothing/Neck/Accessories/ribbon.rsi
+    quickEquip: true
+
+- type: entity
+  parent: ClothingNeckBase
+  id: ERPBellCollarPinkERP
+  suffix: ERP
+  name: pink bell collar
+  description: Cute pink choker with a bell.
+  components:
+  - type: Sprite
+    sprite: _ERP/Clothing/Neck/Accessories/collar5.rsi
+  - type: Clothing
+    sprite: _ERP/Clothing/Neck/Accessories/collar5.rsi
+
+- type: entity
+  parent: ClothingNeckBase
+  id: ERPBellCollarYellowERP
+  suffix: ERP
+  name: yellow bell collar
+  description: Cute yellow choker with a bell.
+  components:
+  - type: Sprite
+    sprite: _ERP/Clothing/Neck/Accessories/collar6.rsi
+  - type: Clothing
+    sprite: _ERP/Clothing/Neck/Accessories/collar6.rsi
+
+- type: entity
+  parent: ClothingNeckBase
+  id: ERPBellCollarERP
+  suffix: ERP
+  name: bell collar
+  description: Cute choker with a bell.
+  components:
+  - type: Sprite
+    sprite: _ERP/Clothing/Neck/Accessories/collar7.rsi
+  - type: Clothing
+    sprite: _ERP/Clothing/Neck/Accessories/collar7.rsi
+
+- type: entity
+  parent: ClothingNeckBase
+  id: ERPCollarCrossERP
+  suffix: ERP
+  name: cross choker
+  description: Black choker with a cross.
+  components:
+  - type: Sprite
+    sprite: _ERP/Clothing/Neck/Accessories/collar_cross.rsi
+  - type: Clothing
+    sprite: _ERP/Clothing/Neck/Accessories/collar_cross.rsi
+
+- type: entity
+  parent: ClothingNeckBase
+  id: ERPCollarStarERP
+  suffix: ERP
+  name: star choker
+  description: Black choker with a star.
+  components:
+  - type: Sprite
+    sprite: _ERP/Clothing/Neck/Accessories/collar_star.rsi
+  - type: Clothing
+    sprite: _ERP/Clothing/Neck/Accessories/collar_star.rsi
