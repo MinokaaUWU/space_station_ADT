@@ -1,6 +1,7 @@
 - type: entity
   parent: ClothingBeltBase
   id: ClothingBeltStraponBase
+  suffix: ERP
   abstract: true
   components:
   - type: Sprite
@@ -11,6 +12,7 @@
 - type: entity
   parent: ClothingBeltStraponBase
   id: ClothingBeltStraponAvian
+  suffix: ERP
   name: avain strapon
   description: "The same soft and elastic dildo, but located on the belt. Mandatory lubrication is recommended before use!"
   components:
@@ -30,6 +32,7 @@
 - type: entity
   parent: ClothingBeltStraponBase
   id: ClothingBeltStraponCanine
+  suffix: ERP
   name: canine strapon
   description: "The same soft and elastic dildo, but located on the belt. Mandatory lubrication is recommended before use!"
   components:
@@ -49,6 +52,7 @@
 - type: entity
   parent: ClothingBeltStraponBase
   id: ClothingBeltStraponDragon
+  suffix: ERP
   name: dragon strapon
   description: "The same soft and elastic dildo, but located on the belt. Mandatory lubrication is recommended before use!"
   components:
@@ -68,6 +72,7 @@
 - type: entity
   parent: ClothingBeltStraponBase
   id: ClothingBeltStraponEquine
+  suffix: ERP
   name: equine strapon
   description: "The same soft and elastic dildo, but located on the belt. Mandatory lubrication is recommended before use!"
   components:
@@ -87,6 +92,7 @@
 - type: entity
   parent: ClothingBeltStraponBase
   id: ClothingBeltStraponHuman
+  suffix: ERP
   name: human strapon
   description: "The same soft and elastic dildo, but located on the belt. Mandatory lubrication is recommended before use!"
   components:

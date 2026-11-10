@@ -1,6 +1,7 @@
 - type: entity
   parent: BaseItem
   id: BaseFleshlight
+  suffix: ERP
   abstract: true
   components:
   - type: Sprite
@@ -9,6 +10,7 @@
 - type: entity
   parent: BaseFleshlight
   id: FleshlightGreen
+  suffix: ERP
   name: green fleshlight
   description: "A stretchy and elastic «toy» made from the softest and most elastic materials in the sector. Do not forget to lubricate before use."
   components:
@@ -24,6 +26,7 @@
 - type: entity
   parent: BaseFleshlight
   id: FleshlightPink
+  suffix: ERP
   name: pink fleshlight
   description: "A stretchy and elastic «toy» made from the softest and most elastic materials in the sector. Do not forget to lubricate before use."
   components:
@@ -39,6 +42,7 @@
 - type: entity
   parent: BaseFleshlight
   id: FleshlightRed
+  suffix: ERP
   name: red fleshlight
   description: "A stretchy and elastic «toy» made from the softest and most elastic materials in the sector. Do not forget to lubricate before use."
   components:
@@ -54,6 +58,7 @@
 - type: entity
   parent: BaseFleshlight
   id: FleshlightTeal
+  suffix: ERP
   name: teal fleshlight
   description: "A stretchy and elastic «toy» made from the softest and most elastic materials in the sector. Do not forget to lubricate before use."
   components:
@@ -69,6 +74,7 @@
 - type: entity
   parent: BaseFleshlight
   id: FleshlightYellow
+  suffix: ERP
   name: yellow fleshlight
   description: "A stretchy and elastic «toy» made from the softest and most elastic materials in the sector. Do not forget to lubricate before use."
   components:

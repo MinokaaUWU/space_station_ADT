@@ -1,6 +1,7 @@
 - type: entity
   parent: Clothing
   id: ClothingAnalBase
+  suffix: ERP
   abstract: true
   components:
   - type: Item
@@ -23,6 +24,7 @@
 - type: entity
   parent: ClothingAnalBase
   id: ClothingAnalGreen
+  suffix: ERP
   name: green plug
   description: ""
   components:
@@ -34,6 +36,7 @@
 - type: entity
   parent: ClothingAnalBase
   id: ClothingAnalMetal
+  suffix: ERP
   name: metal plug
   description: ""
   components:
@@ -45,6 +48,7 @@
 - type: entity
   parent: ClothingAnalBase
   id: ClothingAnalPink
+  suffix: ERP
   name: pink plug
   description: ""
   components:
@@ -56,6 +60,7 @@
 - type: entity
   parent: ClothingAnalBase
   id: ClothingAnalTail
+  suffix: ERP
   name: plug tail
   description: ""
   components:
@@ -67,6 +72,7 @@
 - type: entity
   parent: ClothingAnalBase
   id: ClothingAnalTeal
+  suffix: ERP
   name: teal plug
   description: ""
   components:
@@ -78,6 +84,7 @@
 - type: entity
   parent: ClothingAnalBase
   id: ClothingAnalYellow
+  suffix: ERP
   name: yellow plug
   description: ""
   components:

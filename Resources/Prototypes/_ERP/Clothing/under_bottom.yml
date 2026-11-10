@@ -1,6 +1,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomGrey
+  suffix: ERP
   name: grey pants
   description: "The only and irreplaceable underpants that are always with you."
   components:
@@ -12,6 +13,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomSecurity
+  suffix: ERP
   name: security pants
   description: "Standard security briefs. Provide freedom of movement during chases and arrests."
   components:
@@ -23,6 +25,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomBabydoll
+  suffix: ERP
   name: nightie
   description: "This exquisite transparent nightgown, made of light and delicate material, emphasizes the figure and creates a romantic image. Its thin straps and elegant details add sexiness and sophistication, ideal for cozy evenings."
   components:
@@ -34,6 +37,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomBoxers
+  suffix: ERP
   name: boxers
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -45,6 +49,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomChast
+  suffix: ERP
   name: chastity belt
   description: "Its adjustable design ensures comfortable wearing and secure fixation, creating an intriguing atmosphere and control in the relationship."
   components:
@@ -56,6 +61,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomChastCage
+  suffix: ERP
   name: chastity cage
   description: "A specialized device designed to lock the male genital organ, ensuring physical and symbolic fidelity."
   components:
@@ -67,6 +73,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomDeath
+  suffix: ERP
   name: pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -78,6 +85,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomFAssblastusa
+  suffix: ERP
   name: pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -89,6 +97,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomFBriefs
+  suffix: ERP
   name: briefs
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -100,6 +109,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomFCommie
+  suffix: ERP
   name: pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -111,6 +121,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomFishnet
+  suffix: ERP
   name: pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -122,6 +133,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomFKinky
+  suffix: ERP
   name: pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -133,6 +145,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomHearts
+  suffix: ERP
   name: pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -144,6 +157,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomLace
+  suffix: ERP
   name: pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -155,6 +169,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomLatex
+  suffix: ERP
   name: latex pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -166,6 +181,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomLizard
+  suffix: ERP
   name: pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -177,6 +193,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomMankiny
+  suffix: ERP
   name: man thong
   description: "Made of soft and stretchy material, they provide excellent support and comfort, and the modern design makes them an attractive wardrobe item."
   components:
@@ -188,6 +205,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomMAssblastusa
+  suffix: ERP
   name: pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -199,6 +217,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomMBriefs
+  suffix: ERP
   name: briefs
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -210,6 +229,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomMCommie
+  suffix: ERP
   name: pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -221,6 +241,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomMKinky
+  suffix: ERP
   name: pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -232,6 +253,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomNekoBlack
+  suffix: ERP
   name: pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -243,6 +265,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomNekoWhite
+  suffix: ERP
   name: pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -254,6 +277,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomNinja
+  suffix: ERP
   name: fundosi
   description: "Traditional Japanese underwear that combines comfort and style. Made of soft and breathable material, they provide freedom of movement and are great for both everyday wear and sports, giving the image a special twist."
   components:
@@ -265,6 +289,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomPanties
+  suffix: ERP
   name: pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -276,6 +301,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomSport
+  suffix: ERP
   name: pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -287,6 +313,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomStripe
+  suffix: ERP
   name: pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -298,6 +325,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomStrippedPanties
+  suffix: ERP
   name: pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -309,6 +337,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomSwimHalter
+  suffix: ERP
   name: swimsuit
   description: "This bathing suit combines style and comfort, perfect for relaxing on the beach or by the pool. The elegant design emphasizes the figure, and the high-quality material provides reliable support and quick drying, allowing you to enjoy summer days to the fullest."
   components:
@@ -320,6 +349,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomSwimOnePiece
+  suffix: ERP
   name: swimsuit
   description: "This bathing suit combines style and comfort, perfect for relaxing on the beach or by the pool. The elegant design emphasizes the figure, and the high-quality material provides reliable support and quick drying, allowing you to enjoy summer days to the fullest."
   components:
@@ -331,6 +361,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomSwimStrapless
+  suffix: ERP
   name: swimsuit
   description: "This bathing suit combines style and comfort, perfect for relaxing on the beach or by the pool. The elegant design emphasizes the figure, and the high-quality material provides reliable support and quick drying, allowing you to enjoy summer days to the fullest."
   components:
@@ -342,6 +373,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomSwimStripe
+  suffix: ERP
   name: swimsuit
   description: "This bathing suit combines style and comfort, perfect for relaxing on the beach or by the pool. The elegant design emphasizes the figure, and the high-quality material provides reliable support and quick drying, allowing you to enjoy summer days to the fullest."
   components:
@@ -353,6 +385,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomTacticool
+  suffix: ERP
   name: pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -364,6 +397,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomThong
+  suffix: ERP
   name: thong
   description: "Sexy and minimalistic underwear that emphasizes shapes and provides maximum freedom of movement. Made of soft material, they are ideal for wearing under tight-fitting clothes, adding confidence and romance to every day."
   components:
@@ -377,6 +411,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomFBso
+  suffix: ERP
   name: blue shield pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -388,6 +423,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomMBso
+  suffix: ERP
   name: blue shield pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -399,6 +435,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomFCaptain
+  suffix: ERP
   name: captain pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -410,6 +447,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomMCaptain
+  suffix: ERP
   name: captain pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -421,6 +459,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomFCaptainS
+  suffix: ERP
   name: sherif pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -432,6 +471,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomMCaptainS
+  suffix: ERP
   name: sherif pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -443,6 +483,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomFCaptainW
+  suffix: ERP
   name: white captain pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -454,6 +495,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomMCaptainW
+  suffix: ERP
   name: white captain pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -465,6 +507,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomFCe
+  suffix: ERP
   name: chief engineer pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -476,6 +519,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomMCe
+  suffix: ERP
   name: chief engineer pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -487,6 +531,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomFCmo
+  suffix: ERP
   name: chief medical officer pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -498,6 +543,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomMCmo
+  suffix: ERP
   name: chief medical officer pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -509,6 +555,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomFHop
+  suffix: ERP
   name: head of personnel pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -520,6 +567,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomMHop
+  suffix: ERP
   name: head of personnel pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -531,6 +579,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomFHos
+  suffix: ERP
   name: head of security pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -542,6 +591,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomMHos
+  suffix: ERP
   name: head of security pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -553,6 +603,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomFQm
+  suffix: ERP
   name: quartermaster pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -564,6 +615,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomMQm
+  suffix: ERP
   name: quartermaster pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -575,6 +627,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomFRd
+  suffix: ERP
   name: research director pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -586,6 +639,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUnderBottomMRd
+  suffix: ERP
   name: research director pants
   description: "These comfortable briefs made of soft and breathable material provide excellent comfort for every day."
   components:
@@ -597,6 +651,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUniformSwimBlack
+  suffix: ERP
   name: black swimsuit
   description: A stylish black swimsuit for the beach or pool.
   components:
@@ -608,6 +663,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUniformSwimBlue
+  suffix: ERP
   name: blue swimsuit
   description: A bright blue swimsuit perfect for summer days.
   components:
@@ -619,6 +675,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUniformSwimDarkGreen
+  suffix: ERP
   name: dark green swimsuit
   description: A dark green swimsuit with a classic look.
   components:
@@ -630,6 +687,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUniformSwimGreen
+  suffix: ERP
   name: green swimsuit
   description: A vibrant green swimsuit for the bold.
   components:
@@ -641,6 +699,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUniformSwimPurple
+  suffix: ERP
   name: purple swimsuit
   description: A beautiful purple swimsuit with elegant design.
   components:
@@ -652,6 +711,7 @@
 - type: entity
   parent: ClothingUnderBottomBase
   id: ClothingUniformSwimRed
+  suffix: ERP
   name: red swimsuit
   description: A stunning red swimsuit that catches the eye.
   components:

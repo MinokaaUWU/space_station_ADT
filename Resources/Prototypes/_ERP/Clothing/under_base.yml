@@ -29,6 +29,7 @@
 - type: entity
   parent: [SolutionFood, SolutionToolSmall, Clothing, BaseSlicingRefinable]
   id: ClothingUnderBottomBase
+  suffix: ERP
   abstract: true
   components:
   - type: Sprite
@@ -73,6 +74,7 @@
 - type: entity
   parent: [SolutionFood, SolutionToolSmall, Clothing, BaseSlicingRefinable]
   id: ClothingUnderSocksBase
+  suffix: ERP
   abstract: true
   components:
   - type: Sprite
@@ -102,6 +104,7 @@
 - type: entity
   parent: [SolutionFood, SolutionToolSmall, Clothing, BaseSlicingRefinable]
   id: ClothingUnderTopBase
+  suffix: ERP
   abstract: true
   components:
   - type: Sprite

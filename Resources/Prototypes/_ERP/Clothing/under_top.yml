@@ -1,6 +1,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopBraGrey
+  suffix: ERP
   name: grey bra
   description: "The only and irreplaceable bra that is always with you."
   components:
@@ -12,6 +13,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopBraSecurity
+  suffix: ERP
   name: security bra
   description: "Standard service safety bra. Worn under a body armor, but provides its own protection."
   components:
@@ -23,6 +25,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopBraAssblastusa
+  suffix: ERP
   name: bra
   description: "An element of lingerie that supports the breasts and creates comfort. It is made of soft materials and has various details."
   components:
@@ -34,6 +37,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopBikini
+  suffix: ERP
   name: bikini
   description: "An element of a bathing suit that supports the chest."
   components:
@@ -45,6 +49,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopBraChast
+  suffix: ERP
   name: bra
   description: "An element of lingerie that supports the breasts and creates comfort. It is made of soft materials and has various details."
   components:
@@ -56,6 +61,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopBraLatex
+  suffix: ERP
   name: latex bra
   description: "An element of lingerie that supports the breasts and creates comfort. It is made of soft materials and has various details."
   components:
@@ -67,6 +73,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopBraStripped
+  suffix: ERP
   name: stripped bra
   description: "An element of lingerie that supports the breasts and creates comfort. It is made of soft materials and has various details."
   components:
@@ -78,6 +85,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopBraCommie
+  suffix: ERP
   name: bra
   description: "An element of lingerie that supports the breasts and creates comfort. It is made of soft materials and has various details."
   components:
@@ -89,6 +97,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopCorset
+  suffix: ERP
   name: corset
   description: "This is a piece of clothing that fits around the waist and creates a silhouette effect. It usually has rigid elements for support and is decorated with lace."
   components:
@@ -100,6 +109,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopBraFishnet
+  suffix: ERP
   name: fishnet bra
   description: "An element of lingerie that supports the breasts and creates comfort. It is made of soft materials and has various details."
   components:
@@ -111,6 +121,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopBraKinky
+  suffix: ERP
   name: bra
   description: "An element of lingerie that supports the breasts and creates comfort. It is made of soft materials and has various details."
   components:
@@ -122,6 +133,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopBraLace
+  suffix: ERP
   name: bra
   description: "An element of lingerie that supports the breasts and creates comfort. It is made of soft materials and has various details."
   components:
@@ -133,6 +145,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopBraLizard
+  suffix: ERP
   name: bra
   description: "An element of lingerie that supports the breasts and creates comfort. It is made of soft materials and has various details."
   components:
@@ -144,6 +157,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopBraNekoBlack
+  suffix: ERP
   name: bra
   description: "An element of lingerie that supports the breasts and creates comfort. It is made of soft materials and has various details."
   components:
@@ -155,6 +169,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopBraNekoWhite
+  suffix: ERP
   name: bra
   description: "An element of lingerie that supports the breasts and creates comfort. It is made of soft materials and has various details."
   components:
@@ -166,6 +181,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopBraPasties
+  suffix: ERP
   name: bra
   description: "Small decorative elements that are designed to hide nipples under clothing."
   components:
@@ -177,6 +193,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopBraSport
+  suffix: ERP
   name: bra
   description: "An element of lingerie that supports the breasts and creates comfort. It is made of soft materials and has various details."
   components:
@@ -188,6 +205,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopBraStrapless
+  suffix: ERP
   name: strapless bra
   description: "An element of lingerie that supports the breasts and creates comfort. It is made of soft materials and has various details."
   components:
@@ -199,6 +217,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopBraThong
+  suffix: ERP
   name: bra
   description: "An element of lingerie that supports the breasts and creates comfort. It is made of soft materials and has various details."
   components:
@@ -212,6 +231,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopBraBso
+  suffix: ERP
   name: blue shield bra
   description: "An element of lingerie that supports the breasts and creates comfort. It is made of soft materials and has various details."
   components:
@@ -223,6 +243,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopBraCap
+  suffix: ERP
   name: captain bra
   description: "An element of lingerie that supports the breasts and creates comfort. It is made of soft materials and has various details."
   components:
@@ -234,6 +255,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopBraCapS
+  suffix: ERP
   name: sherif bra
   description: "An element of lingerie that supports the breasts and creates comfort. It is made of soft materials and has various details."
   components:
@@ -245,6 +267,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopBraCapW
+  suffix: ERP
   name: white captain bra
   description: "An element of lingerie that supports the breasts and creates comfort. It is made of soft materials and has various details."
   components:
@@ -256,6 +279,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopBraCe
+  suffix: ERP
   name: chief engineer bra
   description: "An element of lingerie that supports the breasts and creates comfort. It is made of soft materials and has various details."
   components:
@@ -267,6 +291,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopBraCmo
+  suffix: ERP
   name: chief medical officer bra
   description: "An element of lingerie that supports the breasts and creates comfort. It is made of soft materials and has various details."
   components:
@@ -278,6 +303,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopBraHop
+  suffix: ERP
   name: head of personnel bra
   description: "An element of lingerie that supports the breasts and creates comfort. It is made of soft materials and has various details."
   components:
@@ -289,6 +315,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopBraHos
+  suffix: ERP
   name: head of security bra
   description: "An element of lingerie that supports the breasts and creates comfort. It is made of soft materials and has various details."
   components:
@@ -300,6 +327,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopBraQm
+  suffix: ERP
   name: quartermaster bra
   description: "An element of lingerie that supports the breasts and creates comfort. It is made of soft materials and has various details."
   components:
@@ -311,6 +339,7 @@
 - type: entity
   parent: ClothingUnderTopBase
   id: ClothingUnderTopBraRd
+  suffix: ERP
   name: research director bra
   description: "An element of lingerie that supports the breasts and creates comfort. It is made of soft materials and has various details."
   components:

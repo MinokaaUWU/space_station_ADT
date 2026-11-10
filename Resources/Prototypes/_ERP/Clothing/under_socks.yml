@@ -3,7 +3,7 @@
   id: ClothingUnderSocksAssblastusaKnee
   name: socks
   description: "These socks with alternating perpendicular lines in red, white and blue colors create a dynamic and stylish look! Their original design makes them a great accessory, allowing you to express your personality and add a touch of playfulness to your everyday wear."
-  suffix: knee
+  suffix: knee, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/assblastusaknee.rsi
@@ -15,7 +15,7 @@
   id: ClothingUnderSocksAssblastusaThigh
   name: socks
   description: "These socks with alternating perpendicular lines in red, white and blue colors create a dynamic and stylish look! Their original design makes them a great accessory, allowing you to express your personality and add a touch of playfulness to your everyday wear."
-  suffix: thigh
+  suffix: thigh, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/assblastusathigh.rsi
@@ -27,7 +27,7 @@
   id: ClothingUnderSocksBeeKnee
   name: bee socks
   description: "Make them loins buzz!"
-  suffix: knee
+  suffix: knee, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/beeknee.rsi
@@ -39,7 +39,7 @@
   id: ClothingUnderSocksBlackKnee
   name: black socks
   description: "The perfect combination of comfort and style that can add a twist to even the most ordinary look. The soft material guarantees comfort at any time of the year, and the versatile color makes them suitable for any occasion!"
-  suffix: knee
+  suffix: knee, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/blackknee.rsi
@@ -49,6 +49,7 @@
 - type: entity
   parent: ClothingUnderSocksBase
   id: ClothingUnderSocksBlackNorm
+  suffix: ERP
   name: black socks
   description: "The perfect combination of comfort and style that can add a twist to even the most ordinary look. The soft material guarantees comfort at any time of the year, and the versatile color makes them suitable for any occasion!"
   components:
@@ -62,7 +63,7 @@
   id: ClothingUnderSocksBlackShort
   name: black socks
   description: "The perfect combination of comfort and style that can add a twist to even the most ordinary look. The soft material guarantees comfort at any time of the year, and the versatile color makes them suitable for any occasion!"
-  suffix: short
+  suffix: short, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/blackshort.rsi
@@ -74,7 +75,7 @@
   id: ClothingUnderSocksBlackThigh
   name: black socks
   description: "The perfect combination of comfort and style that can add a twist to even the most ordinary look. The soft material guarantees comfort at any time of the year, and the versatile color makes them suitable for any occasion!"
-  suffix: thigh
+  suffix: thigh, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/blackthigh.rsi
@@ -84,6 +85,7 @@
 - type: entity
   parent: ClothingUnderSocksBase
   id: ClothingUnderSocksBlue
+  suffix: ERP
   name: blue socks
   description: "A great way to add brightness to your wardrobe! Their stylish blue stripes not only attract attention, but also make each pair unique, allowing you to express your personality."
   components:
@@ -97,7 +99,7 @@
   id: ClothingUnderSocksCommieKnee
   name: socks
   description: "These socks with parallel red and yellow lines will add brightness and energy to your wardrobe! Their playful design makes them the perfect accessory for those who want to stand out and emphasize their individuality in everyday wear."
-  suffix: knee
+  suffix: knee, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/commieknee.rsi
@@ -109,7 +111,7 @@
   id: ClothingUnderSocksCommieThigh
   name: socks
   description: "These socks with parallel red and yellow lines will add brightness and energy to your wardrobe! Their playful design makes them the perfect accessory for those who want to stand out and emphasize their individuality in everyday wear."
-  suffix: thigh
+  suffix: thigh, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/commiethigh.rsi
@@ -119,6 +121,7 @@
 - type: entity
   parent: ClothingUnderSocksBase
   id: ClothingUnderSocksCyan
+  suffix: ERP
   name: cyan socks
   description: "These white socks with turquoise stripes will add brightness to your casual style. Comfortable material and fresh color create the perfect combination, allowing you to stay fashionable even in the most ordinary outfits!"
   components:
@@ -132,7 +135,7 @@
   id: ClothingUnderSocksFishnet
   name: fishnet
   description: "These tights in a stylish cage with an openwork mesh will add sophistication and originality to your image! The lightweight and breathable material makes them ideal for creating a spectacular outfit, emphasizing your personality and style."
-  suffix: full
+  suffix: full, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/fishnetfull.rsi
@@ -144,7 +147,7 @@
   id: ClothingUnderSocksFishnetKnee
   name: fishnet
   description: "These tights in a stylish cage with an openwork mesh will add sophistication and originality to your image! The lightweight and breathable material makes them ideal for creating a spectacular outfit, emphasizing your personality and style."
-  suffix: knee
+  suffix: knee, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/fishnetknee.rsi
@@ -156,7 +159,7 @@
   id: ClothingUnderSocksFishnetThigh
   name: fishnet
   description: "These tights in a stylish cage with an openwork mesh will add sophistication and originality to your image! The lightweight and breathable material makes them ideal for creating a spectacular outfit, emphasizing your personality and style."
-  suffix: thigh
+  suffix: thigh, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/fishnetthigh.rsi
@@ -166,6 +169,7 @@
 - type: entity
   parent: ClothingUnderSocksBase
   id: ClothingUnderSocksGreen
+  suffix: ERP
   name: green socks
   description: "These white socks with green stripes will add brightness and freshness to your wardrobe! The comfortable material and stylish design make them the perfect accessory for everyday wear, allowing you to stand out even in the simplest of looks."
   components:
@@ -177,6 +181,7 @@
 - type: entity
   parent: ClothingUnderSocksBase
   id: ClothingUnderSocksOrange
+  suffix: ERP
   name: orange socks
   description: "These white socks with orange stripes will add a bright accent to your wardrobe! The comfortable material and playful design make them an excellent choice for everyday wear, allowing you to stand out and cheer up at any time of the day."
   components:
@@ -188,6 +193,7 @@
 - type: entity
   parent: ClothingUnderSocksBase
   id: ClothingUnderSocksPantyhose
+  suffix: ERP
   name: pantyhose
   description: "These versatile tights will become an indispensable element of your wardrobe! They are ideal for creating stylish looks, providing comfort and elegance, and a variety of textures and colors allows you to experiment with fashion every day."
   components:
@@ -199,6 +205,7 @@
 - type: entity
   parent: ClothingUnderSocksBase
   id: ClothingUnderSocksPink
+  suffix: ERP
   name: pink socks
   description: "These white socks with pink stripes will add tenderness and playfulness to your look! The comfortable material and stylish design make them the perfect accessory for everyday wear, allowing you to express your personality with bright accents."
   components:
@@ -210,6 +217,7 @@
 - type: entity
   parent: ClothingUnderSocksBase
   id: ClothingUnderSocksPurple
+  suffix: ERP
   name: purple socks
   description: "These white socks with purple stripes will become a stylish accent in your wardrobe! Their bright stripes add a touch of originality and freshness, making your every step more confident and expressive."
   components:
@@ -223,7 +231,7 @@
   id: ClothingUnderSocksRainbowKnee
   name: rainbow socks
   description: "These socks, made in bright rainbow colors, will add fun and cheerfulness to any look! Ideal for bold personalities, they allow you to express your personality and cheer up even on the grayest day."
-  suffix: knee
+  suffix: knee, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/rainbowknee.rsi
@@ -235,7 +243,7 @@
   id: ClothingUnderSocksRainbowThigh
   name: rainbow socks
   description: "These socks, made in bright rainbow colors, will add fun and cheerfulness to any look! Ideal for bold personalities, they allow you to express your personality and cheer up even on the grayest day."
-  suffix: thigh
+  suffix: thigh, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/rainbowthigh.rsi
@@ -247,7 +255,7 @@
   id: ClothingUnderSocksStripedKnee
   name: striped socks
   description: "These socks in gray and black with perpendicular lines add a modern accent to any look! Their stylish and concise design is perfect for everyday wear, combining comfort and elegance in every step."
-  suffix: knee
+  suffix: knee, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/stripedknee.rsi
@@ -259,7 +267,7 @@
   id: ClothingUnderSocksStripedThigh
   name: striped socks
   description: "These socks in gray and black with perpendicular lines add a modern accent to any look! Their stylish and concise design is perfect for everyday wear, combining comfort and elegance in every step."
-  suffix: thigh
+  suffix: thigh, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/stripedthigh.rsi
@@ -271,7 +279,7 @@
   id: ClothingUnderSocksThinKnee
   name: thin socks
   description: "These thin transparent socks are the perfect choice for lightness and sophistication! They perfectly complement both the casual and evening look, giving your legs an elegant look, while maintaining comfort and freedom of movement."
-  suffix: knee
+  suffix: knee, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/thinknee.rsi
@@ -283,7 +291,7 @@
   id: ClothingUnderSocksThinThigh
   name: thin socks
   description: "These thin transparent socks are the perfect choice for lightness and sophistication! They perfectly complement both the casual and evening look, giving your legs an elegant look, while maintaining comfort and freedom of movement."
-  suffix: thigh
+  suffix: thigh, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/thinthigh.rsi
@@ -295,7 +303,7 @@
   id: ClothingUnderSocksWhiteKnee
   name: white socks
   description: "These classic white socks are an indispensable wardrobe item! The simplicity of their design allows them to be combined with any image, and the comfortable material provides convenience for every day."
-  suffix: knee
+  suffix: knee, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/whiteknee.rsi
@@ -305,6 +313,7 @@
 - type: entity
   parent: ClothingUnderSocksBase
   id: ClothingUnderSocksWhiteNorm
+  suffix: ERP
   name: white socks
   description: "These classic white socks are an indispensable wardrobe item! The simplicity of their design allows them to be combined with any image, and the comfortable material provides convenience for every day."
   components:
@@ -318,7 +327,7 @@
   id: ClothingUnderSocksWhiteShort
   name: white socks
   description: "These classic white socks are an indispensable wardrobe item! The simplicity of their design allows them to be combined with any image, and the comfortable material provides convenience for every day."
-  suffix: short
+  suffix: short, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/whiteshort.rsi
@@ -330,7 +339,7 @@
   id: ClothingUnderSocksWhiteThigh
   name: white socks
   description: "These classic white socks are an indispensable wardrobe item! The simplicity of their design allows them to be combined with any image, and the comfortable material provides convenience for every day."
-  suffix: thigh
+  suffix: thigh, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/whitethigh.rsi
@@ -340,6 +349,7 @@
 - type: entity
   parent: ClothingUnderSocksBase
   id: ClothingUnderSocksYellow
+  suffix: ERP
   name: yellow socks
   description: "These white socks with yellow stripes will add a bright accent to your wardrobe! Their stylish design and comfortable material make them an ideal choice for everyday wear, allowing you to express your personality with a touch of fun."
   components:
@@ -355,7 +365,7 @@
   id: ClothingUnderSocksCapKnee
   name: captain socks
   description: "A symbol of style and confidence! Their luxurious gold stripes give the socks an original look, making you a real captain of fashion in any situation."
-  suffix: knee
+  suffix: knee, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/Head/capitanknee.rsi
@@ -365,6 +375,7 @@
 - type: entity
   parent: ClothingUnderSocksBase
   id: ClothingUnderSocksCapNorm
+  suffix: ERP
   name: captain socks
   description: "A symbol of style and confidence! Their luxurious gold stripes give the socks an original look, making you a real captain of fashion in any situation."
   components:
@@ -378,7 +389,7 @@
   id: ClothingUnderSocksCapShort
   name: captain socks
   description: "A symbol of style and confidence! Their luxurious gold stripes give the socks an original look, making you a real captain of fashion in any situation."
-  suffix: short
+  suffix: short, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/Head/capitanshort.rsi
@@ -390,7 +401,7 @@
   id: ClothingUnderSocksCapThigh
   name: captain socks
   description: "A symbol of style and confidence! Their luxurious gold stripes give the socks an original look, making you a real captain of fashion in any situation."
-  suffix: thigh
+  suffix: thigh, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/Head/capitanthigh.rsi
@@ -402,7 +413,7 @@
   id: ClothingUnderSocksCeKnee
   name: chief engineer socks
   description: "These white socks with a touch of green perfectly emphasize the engineer's specialization, and elegant gold stripes accentuate his status and experience, giving each image a touch of elegance and confidence."
-  suffix: knee
+  suffix: knee, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/Head/ceknee.rsi
@@ -412,6 +423,7 @@
 - type: entity
   parent: ClothingUnderSocksBase
   id: ClothingUnderSocksCeNorm
+  suffix: ERP
   name: chief engineer socks
   description: "These white socks with a touch of green perfectly emphasize the engineer's specialization, and elegant gold stripes accentuate his status and experience, giving each image a touch of elegance and confidence."
   components:
@@ -425,7 +437,7 @@
   id: ClothingUnderSocksCeShort
   name: chief engineer socks
   description: "These white socks with a touch of green perfectly emphasize the engineer's specialization, and elegant gold stripes accentuate his status and experience, giving each image a touch of elegance and confidence."
-  suffix: short
+  suffix: short, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/Head/ceshort.rsi
@@ -437,7 +449,7 @@
   id: ClothingUnderSocksCeThigh
   name: chief engineer socks
   description: "These white socks with a touch of green perfectly emphasize the engineer's specialization, and elegant gold stripes accentuate his status and experience, giving each image a touch of elegance and confidence."
-  suffix: thigh
+  suffix: thigh, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/Head/cethigh.rsi
@@ -449,7 +461,7 @@
   id: ClothingUnderSocksCmoKnee
   name: chief medical officer socks
   description: "These white socks with a blue-turquoise shade perfectly reflect the specialization of the doctor, giving the image freshness and professionalism. Their simple but stylish design will emphasize the status of the owner, emphasizing care and responsibility."
-  suffix: knee
+  suffix: knee, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/Head/cmoknee.rsi
@@ -459,6 +471,7 @@
 - type: entity
   parent: ClothingUnderSocksBase
   id: ClothingUnderSocksCmoNorm
+  suffix: ERP
   name: chief medical officer socks
   description: "These white socks with a blue-turquoise shade perfectly reflect the specialization of the doctor, giving the image freshness and professionalism. Their simple but stylish design will emphasize the status of the owner, emphasizing care and responsibility."
   components:
@@ -472,7 +485,7 @@
   id: ClothingUnderSocksCmoShort
   name: chief medical officer socks
   description: "These white socks with a blue-turquoise shade perfectly reflect the specialization of the doctor, giving the image freshness and professionalism. Their simple but stylish design will emphasize the status of the owner, emphasizing care and responsibility."
-  suffix: short
+  suffix: short, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/Head/cmoshort.rsi
@@ -484,7 +497,7 @@
   id: ClothingUnderSocksCmoThigh
   name: chief medical officer socks
   description: "These white socks with a blue-turquoise shade perfectly reflect the specialization of the doctor, giving the image freshness and professionalism. Their simple but stylish design will emphasize the status of the owner, emphasizing care and responsibility."
-  suffix: thigh
+  suffix: thigh, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/Head/cmothigh.rsi
@@ -496,7 +509,7 @@
   id: ClothingUnderSocksHopKnee
   name: head of personnel socks
   description: "These deep blue socks perfectly reflect the status and professionalism of the wearer. The impeccable design and comfortable material make them an excellent choice for business meetings, adding a touch of elegance to any outfit."
-  suffix: knee
+  suffix: knee, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/Head/hopknee.rsi
@@ -506,6 +519,7 @@
 - type: entity
   parent: ClothingUnderSocksBase
   id: ClothingUnderSocksHopNorm
+  suffix: ERP
   name: head of personnel socks
   description: "These deep blue socks perfectly reflect the status and professionalism of the wearer. The impeccable design and comfortable material make them an excellent choice for business meetings, adding a touch of elegance to any outfit."
   components:
@@ -519,7 +533,7 @@
   id: ClothingUnderSocksHopShort
   name: head of personnel socks
   description: "These deep blue socks perfectly reflect the status and professionalism of the wearer. The impeccable design and comfortable material make them an excellent choice for business meetings, adding a touch of elegance to any outfit."
-  suffix: short
+  suffix: short, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/Head/hopshort.rsi
@@ -531,7 +545,7 @@
   id: ClothingUnderSocksHopThigh
   name: head of personnel socks
   description: "These deep blue socks perfectly reflect the status and professionalism of the wearer. The impeccable design and comfortable material make them an excellent choice for business meetings, adding a touch of elegance to any outfit."
-  suffix: thigh
+  suffix: thigh, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/Head/hopthigh.rsi
@@ -543,7 +557,7 @@
   id: ClothingUnderSocksHosKnee
   name: head of security socks
   description: "These red and black socks symbolize strength and confidence, where red hides blood and black represents power. An ideal choice for those who want to emphasize their status and charisma in any business environment!"
-  suffix: knee
+  suffix: knee, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/Head/hosknee.rsi
@@ -553,6 +567,7 @@
 - type: entity
   parent: ClothingUnderSocksBase
   id: ClothingUnderSocksHosNorm
+  suffix: ERP
   name: head of security socks
   description: "These red and black socks symbolize strength and confidence, where red hides blood and black represents power. An ideal choice for those who want to emphasize their status and charisma in any business environment!"
   components:
@@ -566,7 +581,7 @@
   id: ClothingUnderSocksHosShort
   name: head of security socks
   description: "These red and black socks symbolize strength and confidence, where red hides blood and black represents power. An ideal choice for those who want to emphasize their status and charisma in any business environment!"
-  suffix: short
+  suffix: short, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/Head/hosshort.rsi
@@ -578,7 +593,7 @@
   id: ClothingUnderSocksHosThigh
   name: head of security socks
   description: "These red and black socks symbolize strength and confidence, where red hides blood and black represents power. An ideal choice for those who want to emphasize their status and charisma in any business environment!"
-  suffix: thigh
+  suffix: thigh, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/Head/hosthigh.rsi
@@ -590,7 +605,7 @@
   id: ClothingUnderSocksQmKnee
   name: quartermaster socks
   description: "These black and brown socks reflect the difficulties and responsibilities of working in the supply department! Their classic color combination symbolizes a serious approach to business, and comfortable material supports you in difficult moments, emphasizing the status and professionalism of the owner."
-  suffix: knee
+  suffix: knee, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/Head/qmknee.rsi
@@ -600,6 +615,7 @@
 - type: entity
   parent: ClothingUnderSocksBase
   id: ClothingUnderSocksQmNorm
+  suffix: ERP
   name: quartermaster socks
   description: "These black and brown socks reflect the difficulties and responsibilities of working in the supply department! Their classic color combination symbolizes a serious approach to business, and comfortable material supports you in difficult moments, emphasizing the status and professionalism of the owner."
   components:
@@ -613,7 +629,7 @@
   id: ClothingUnderSocksQmShort
   name: quartermaster socks
   description: "These black and brown socks reflect the difficulties and responsibilities of working in the supply department! Their classic color combination symbolizes a serious approach to business, and comfortable material supports you in difficult moments, emphasizing the status and professionalism of the owner."
-  suffix: short
+  suffix: short, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/Head/qmshort.rsi
@@ -625,7 +641,7 @@
   id: ClothingUnderSocksQmThigh
   name: quartermaster socks
   description: "These black and brown socks reflect the difficulties and responsibilities of working in the supply department! Their classic color combination symbolizes a serious approach to business, and comfortable material supports you in difficult moments, emphasizing the status and professionalism of the owner."
-  suffix: thigh
+  suffix: thigh, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/Head/qmthigh.rsi
@@ -637,7 +653,7 @@
   id: ClothingUnderSocksRdKnee
   name: research director socks
   description: "These socks in a dark purple shade symbolize the wisdom and creativity of the wearer! Their deep color emphasizes status and professionalism, perfectly complementing the image of those who lead in the world of science and knowledge."
-  suffix: knee
+  suffix: knee, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/Head/rdknee.rsi
@@ -647,6 +663,7 @@
 - type: entity
   parent: ClothingUnderSocksBase
   id: ClothingUnderSocksRdNorm
+  suffix: ERP
   name: research director socks
   description: "These socks in a dark purple shade symbolize the wisdom and creativity of the wearer! Their deep color emphasizes status and professionalism, perfectly complementing the image of those who lead in the world of science and knowledge."
   components:
@@ -660,7 +677,7 @@
   id: ClothingUnderSocksRdShort
   name: research director socks
   description: "These socks in a dark purple shade symbolize the wisdom and creativity of the wearer! Their deep color emphasizes status and professionalism, perfectly complementing the image of those who lead in the world of science and knowledge."
-  suffix: short
+  suffix: short, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/Head/rdshort.rsi
@@ -672,7 +689,7 @@
   id: ClothingUnderSocksRdThigh
   name: research director socks
   description: "These socks in a dark purple shade symbolize the wisdom and creativity of the wearer! Their deep color emphasizes status and professionalism, perfectly complementing the image of those who lead in the world of science and knowledge."
-  suffix: thigh
+  suffix: thigh, ERP
   components:
   - type: Sprite
     sprite: _ERP/Clothing/Under/Socks/Head/rdthigh.rsi

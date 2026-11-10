@@ -1,6 +1,7 @@
 - type: entity
   parent: [ ClothingNeckBase, BaseFoldable ]
   id: ClothingNeckChokerBase
+  suffix: ERP
   abstract: true
   components:
   - type: Item
@@ -18,6 +19,7 @@
 - type: entity
   parent: ClothingNeckChokerBase
   id: ClothingNeckChokerBlack
+  suffix: ERP
   name: black choker
   description: "A sleek and stylish black choker, perfect for a bold look."
   components:
@@ -34,6 +36,7 @@
 - type: entity
   parent: ClothingNeckChokerBase
   id: ClothingNeckChokerCyan
+  suffix: ERP
   name: cyan choker
   description: "A vibrant cyan choker, adding a pop of color to your outfit."
   components:
@@ -50,6 +53,7 @@
 - type: entity
   parent: ClothingNeckChokerBase
   id: ClothingNeckChokerGreen
+  suffix: ERP
   name: green choker
   description: "A fresh green choker, offering a touch of nature and elegance."
   components:
@@ -66,6 +70,7 @@
 - type: entity
   parent: ClothingNeckChokerBase
   id: ClothingNeckChokerLatex
+  suffix: ERP
   name: latex choker
   description: "A bold latex choker, perfect for an edgy, modern look."
   components:
@@ -82,6 +87,7 @@
 - type: entity
   parent: ClothingNeckChokerBase
   id: ClothingNeckChokerOrange
+  suffix: ERP
   name: orange choker
   description: "A bright orange choker that brings a playful and energetic vibe."
   components:
@@ -98,6 +104,7 @@
 - type: entity
   parent: ClothingNeckChokerBase
   id: ClothingNeckChokerPurple
+  suffix: ERP
   name: purple choker
   description: "A rich purple choker, adding a touch of luxury and mystery."
   components:
@@ -114,6 +121,7 @@
 - type: entity
   parent: ClothingNeckChokerBase
   id: ClothingNeckChokerRed
+  suffix: ERP
   name: red choker
   description: "A passionate red choker, perfect for making a statement."
   components:
@@ -130,6 +138,7 @@
 - type: entity
   parent: ClothingNeckChokerBase
   id: ClothingNeckChokerSpike
+  suffix: ERP
   name: spike choker
   description: "A rebellious spike choker, designed for a bold and edgy look."
   components:
@@ -146,6 +155,7 @@
 - type: entity
   parent: ClothingNeckChokerBase
   id: ClothingNeckChokerTealBlack
+  suffix: ERP
   name: tealblack choker
   description: "A unique teal and black choker, combining elegance with a hint of mystery."
   components:
@@ -162,6 +172,7 @@
 - type: entity
   parent: ClothingNeckChokerBase
   id: ClothingNeckChokerWhite
+  suffix: ERP
   name: white choker
   description: "A delicate white choker, perfect for adding a fresh and clean touch to your look."
   components:
@@ -178,6 +189,7 @@
 - type: entity
   parent: ClothingNeckChokerBase
   id: ClothingNeckChokerYellow
+  suffix: ERP
   name: yellow choker
   description: "A sunny yellow choker, ideal for a bright and cheerful appearance."
   components:
@@ -194,6 +206,7 @@
 - type: entity
   parent: ClothingNeckChokerBase
   id: ClothingNeckChokerSecSpike
+  suffix: ERP
   name: security spike choker
   description: "A rebellious spike choker, designed for that one of femboys in sec."
   components:
